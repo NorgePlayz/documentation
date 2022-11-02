@@ -5,8 +5,8 @@ description: How to authorize new users on your API
 ---
 
 
-To add a new user to MCSS, open the software, click on `file > options` then scroll all the way down to the API section. 
-Below the API's URL you will find a button labeled "Manage users". Click on this button to open the user management page.
+To add a new user to MCSS, open the software, click on `Web Panel > Manage Users & API Keys` 
+You will find a button labeled "Add User". Click on this button to open the user management page.
 
 Add a username and password then click "Add user" and your new user is configured.
 
