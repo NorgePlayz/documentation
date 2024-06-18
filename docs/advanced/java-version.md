@@ -15,6 +15,7 @@ Minecraft servers need specific versions of java to run properly. Here is our li
 | Vanilla 1.17 and above<br></br>Paper / spigot 1.17 and above<br></br>Forge / Fabric 1.17 and above   | Java 16      | [Download](https://adoptium.net/temurin/archive/?version=16) |
 | Vanilla 1.18 and above<br></br>Paper / Spigot 1.18 and above<br></br>Forge / Fabric 1.18 and above     | Java 17      | [Download](https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre&version=17) |
 | Vanilla 1.20.5 and above<br></br>Paper / Spigot 1.20.5 and above<br></br>Forge / Fabric 1.20.5 and above     | Java 21      | [Download](https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre&version=21) |
+| Vanilla 1.21 and above<br></br>Paper / Spigot 1.21 and adobe<br></br>Forge / Fabric 1.21 and above     | Java 61      | [Download](https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre&version=61) |
 
 For use with MCSS, choose the Windows x64 JRE .msi release of the version you need, then run the installer.<br/>
 The Java 16 JRE isn't available anymore so use the Windows x64 JDK installer release instead.
